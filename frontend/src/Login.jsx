@@ -42,7 +42,7 @@ const Login = () => {
             className="w-full p-2 border rounded"
             placeholder="Enter your username"
             required
-          />
+          />      
         </div>
         <div className="mb-4">
           <label className="block text-sm font-semibold">Password</label>

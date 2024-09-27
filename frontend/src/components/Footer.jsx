@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return(
     <footer style={footerStyle}>
-        <p>© 2024 Your Company Name. All rights reserved.</p>
+        <p>© 2024 Your Company Name. All rights reserved and oooo.</p>
         <div className="banner">
             <div className="title">
             </div>
